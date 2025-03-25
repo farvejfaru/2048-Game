@@ -3,7 +3,7 @@
 This is a simple implementation of the 2048 game using HTML, CSS, and JavaScript. The game allows players to combine numbered tiles by moving them in four directions to reach the 🏆 **2048 tile**.
 
 ## 👀 Play the Game
-Check out the live version here: [2048 Game](https://farvejfaru.github.io/2048-Game/)
+Check out the live version here: [2048 Game]()
 
 ## ✨ Features
 - 🎩 **Responsive 4x4 grid-based game board**
